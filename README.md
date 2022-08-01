@@ -1,4 +1,4 @@
-# vue-3-multi-idioma
+# vue-multilenguaje
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# vue-multilenguaje
+
